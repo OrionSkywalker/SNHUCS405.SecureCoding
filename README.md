@@ -1,5 +1,5 @@
 # SNHUCS405.SecureCoding
-This is a repository for work completed in SNHU CS-405. 
+This is a repository for work completed in SNHU CS-405. Some of the interesting things I have included are the buffer overflow prevention, XOR encryption, and numeric overflow files. Most of the files use just a single cpp file or maybe also a header file. 
 
 #### The exposure to topics like secure coding standards, not leaving security to the end, assessing risk, and zero trust has been invaluable. Though, admittedly, I am not an expert on secure coding after one course, the knowledge of the basic types of code induced problems will remain with me throughout my career. 
 ####	Staring the course off with coding assignments in the first week rattled me, but, after being able to identify a logical issue with the framework code provided by the school, the exercise began to provide me confidence that I understood the core principles behind a basic overflow situation. I was able to point out that, in cases where a supposed overflow occurred, one had not truly occurred. By the conclusion of the sixth module, I was familiar with concepts centered around why security should be considered during development. Input validation, error handling, and design focused on simplicity will constantly be in the front of my mind while coding in the future. 
